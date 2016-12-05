@@ -1,0 +1,275 @@
+afegir text "Cthulhu"
+
+afegir text "Overlord"
+
+triar text {and}
+error
+
+triar text {Meromero}
+
+triar text {Salvador}
+error
+
+contingut ?
+error
+
+triar text {Howard}
+
+afegir cita 2 2
+
+cites ?
+HPL1
+2 What, in substance, both the Esquimau wizards and the Louisiana swamp-priests had chanted to their kindred idols was something very like this, the word-divisions being guessed at from traditional breaks in the phrase as chanted aloud: Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.
+Howard Phillips Lovecraft "Cthulhu"
+
+taula de frequencies ?
+the 6
+in 3
+fhtagn 3
+Cthulhu 3
+of 2
+and 2
+was 2
+from 2
+with 2
+chanted 2
+a 1
+He 1
+as 1
+at 1
+he 1
+me 1
+to 1
+all 1
+had 1
+his 1
+see 1
+What 1
+both 1
+city 1
+damp 1
+hear 1
+like 1
+said 1
+this 1
+very 1
+aloud 1
+being 1
+green 1
+idols 1
+oddly 1
+slimy 1
+stone 1
+their 1
+whose 1
+wrong 1
+R'lyeh 1
+breaks 1
+dreams 1
+making 1
+phrase 1
+poetic 1
+talked 1
+calling 1
+fashion 1
+guessed 1
+kindred 1
+wizards 1
+Esquimau 1
+Ph'nglui 1
+geometry 1
+terrible 1
+Cyclopean 1
+Louisiana 1
+ceaseless 1
+mglw'nafh 1
+something 1
+strangely 1
+substance 1
+vividness 1
+wgah'nagl 1
+expectancy 1
+frightened 1
+half-mental 1
+traditional 1
+underground 1
+swamp-priests 1
+word-divisions 1
+
+substitueix "Cthulhu" per "Pony"
+
+taula de frequencies ?
+the 6
+in 3
+Pony 3
+fhtagn 3
+of 2
+and 2
+was 2
+from 2
+with 2
+chanted 2
+a 1
+He 1
+as 1
+at 1
+he 1
+me 1
+to 1
+all 1
+had 1
+his 1
+see 1
+What 1
+both 1
+city 1
+damp 1
+hear 1
+like 1
+said 1
+this 1
+very 1
+aloud 1
+being 1
+green 1
+idols 1
+oddly 1
+slimy 1
+stone 1
+their 1
+whose 1
+wrong 1
+R'lyeh 1
+breaks 1
+dreams 1
+making 1
+phrase 1
+poetic 1
+talked 1
+calling 1
+fashion 1
+guessed 1
+kindred 1
+wizards 1
+Esquimau 1
+Ph'nglui 1
+geometry 1
+terrible 1
+Cyclopean 1
+Louisiana 1
+ceaseless 1
+mglw'nafh 1
+something 1
+strangely 1
+substance 1
+vividness 1
+wgah'nagl 1
+expectancy 1
+frightened 1
+half-mental 1
+traditional 1
+underground 1
+swamp-priests 1
+word-divisions 1
+
+triar text {Overlord}
+
+frases "The fact that" ?
+1 The fact that Meromero was always tired was sufficiently evident by the mood from their brief conversation.
+
+frases {Meromero} ?
+1 The fact that Meromero was always tired was sufficiently evident by the mood from their brief conversation.
+2 But Meromero saw the mail that he sent and showed up today, for the final day in Yggdrasil.
+5 Momonga stared at the seat where Meromero was until a while ago, and then he looked around.
+
+frases ({Yggdrasyl} | {Meromero}) ?
+1 The fact that Meromero was always tired was sufficiently evident by the mood from their brief conversation.
+2 But Meromero saw the mail that he sent and showed up today, for the final day in Yggdrasil.
+5 Momonga stared at the seat where Meromero was until a while ago, and then he looked around.
+
+frases 1 4 ?
+1 The fact that Meromero was always tired was sufficiently evident by the mood from their brief conversation.
+2 But Meromero saw the mail that he sent and showed up today, for the final day in Yggdrasil.
+3 He should be thankful for that alone.
+4 Wanting more than this would go beyond being shameless to being a nuisance.
+
+afegir cita 1 4
+
+totes cites ?
+HPL1
+2 What, in substance, both the Esquimau wizards and the Louisiana swamp-priests had chanted to their kindred idols was something very like this, the word-divisions being guessed at from traditional breaks in the phrase as chanted aloud: Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.
+Howard Phillips Lovecraft "Cthulhu"
+KM1
+1 The fact that Meromero was always tired was sufficiently evident by the mood from their brief conversation.
+2 But Meromero saw the mail that he sent and showed up today, for the final day in Yggdrasil.
+3 He should be thankful for that alone.
+4 Wanting more than this would go beyond being shameless to being a nuisance.
+Kugane Maruyama "Overlord"
+
+info ?
+Kugane Maruyama "Overlord" 7 99
+Cites Associades:
+KM1
+1 The fact that Meromero was always tired was sufficiently evident by the mood from their brief conversation.
+2 But Meromero saw the mail that he sent and showed up today, for the final day in Yggdrasil.
+3 He should be thankful for that alone.
+4 Wanting more than this would go beyond being shameless to being a nuisance.
+
+textos autor "Kugane Maruyama" ?
+"Overlord"
+
+cites ?
+KM1
+1 The fact that Meromero was always tired was sufficiently evident by the mood from their brief conversation.
+2 But Meromero saw the mail that he sent and showed up today, for the final day in Yggdrasil.
+3 He should be thankful for that alone.
+4 Wanting more than this would go beyond being shameless to being a nuisance.
+Kugane Maruyama "Overlord"
+
+eliminar cita "KM1"
+
+totes cites ?
+HPL1
+2 What, in substance, both the Esquimau wizards and the Louisiana swamp-priests had chanted to their kindred idols was something very like this, the word-divisions being guessed at from traditional breaks in the phrase as chanted aloud: Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.
+Howard Phillips Lovecraft "Cthulhu"
+
+tots autors ?
+Howard Phillips Lovecraft 1 2 89
+Kugane Maruyama 1 7 99
+
+cites autor "Howard Phillips Lovecraft"
+error
+
+info cita "HPL1" ?
+Howard Phillips Lovecraft "Cthulhu"
+2-2
+2 What, in substance, both the Esquimau wizards and the Louisiana swamp-priests had chanted to their kindred idols was something very like this, the word-divisions being guessed at from traditional breaks in the phrase as chanted aloud: Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.
+
+afegir cita 2 3
+
+totes cites ?
+HPL1
+2 What, in substance, both the Esquimau wizards and the Louisiana swamp-priests had chanted to their kindred idols was something very like this, the word-divisions being guessed at from traditional breaks in the phrase as chanted aloud: Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.
+Howard Phillips Lovecraft "Cthulhu"
+KM2
+2 But Meromero saw the mail that he sent and showed up today, for the final day in Yggdrasil.
+3 He should be thankful for that alone.
+Kugane Maruyama "Overlord"
+
+eliminar text
+
+tots autors ?
+Howard Phillips Lovecraft 1 2 89
+
+totes cites ?
+HPL1
+2 What, in substance, both the Esquimau wizards and the Louisiana swamp-priests had chanted to their kindred idols was something very like this, the word-divisions being guessed at from traditional breaks in the phrase as chanted aloud: Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.
+Howard Phillips Lovecraft "Cthulhu"
+KM2
+2 But Meromero saw the mail that he sent and showed up today, for the final day in Yggdrasil.
+3 He should be thankful for that alone.
+Kugane Maruyama "Overlord"
+
+taula de frequencies ?
+error
+

@@ -1,0 +1,73 @@
+afegir text "Cthulhu"
+autor "Howard Phillips Lovecraft"
+He talked of his dreams in a strangely poetic fashion; making me see with terrible vividness the damp Cyclopean city of slimy green stone, whose geometry, he oddly said, was all wrong, and hear with frightened expectancy the ceaseless, half-mental calling from underground: Cthulhu fhtagn, Cthulhu fhtagn. What, in substance, both the Esquimau wizards and the Louisiana swamp-priests had chanted to their kindred idols was something very like this, the word-divisions being guessed at from traditional breaks in the phrase as chanted aloud: Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.
+****
+
+afegir text "Overlord"
+autor "Kugane Maruyama"
+The fact that Meromero was always tired was sufficiently evident by the mood from their brief conversation. But Meromero saw the mail that he sent and showed up today, for the final day in Yggdrasil. He should be thankful for that alone. Wanting more than this would go beyond being shameless to being a nuisance. Momonga stared at the seat where Meromero was until a while ago, and then he looked around. What he saw were the 39 chairs where his old comrades used to sit. After the quick look around, his eyes returned to Meromero’s seat once again.
+****
+
+triar text {and}
+
+triar text {Meromero}
+
+triar text {Salvador}
+
+contingut ?
+
+triar text {Howard}
+
+afegir cita 2 2
+
+cites ?
+
+taula de frequencies ?
+
+substitueix "Cthulhu" per "Pony"
+
+taula de frequencies ?
+
+triar text {Overlord}
+
+frases "The fact that" ?
+
+frases {Meromero} ?
+
+frases ({Yggdrasyl} | {Meromero}) ?
+
+frases 1 4 ?
+
+afegir cita 1 4
+
+totes cites ?
+
+info ?
+
+textos autor "Kugane Maruyama" ?
+
+cites ?
+
+eliminar cita "KM1"
+
+totes cites ?
+
+tots autors ?
+
+cites autor "Howard Phillips Lovecraft"
+
+info cita "HPL1" ?
+
+afegir cita 2 3
+
+totes cites ?
+
+eliminar text
+
+tots autors ?
+
+totes cites ?
+
+taula de frequencies ?
+
+sortir
